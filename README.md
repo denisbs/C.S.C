@@ -1,3 +1,5 @@
 C.S.C
-Pertecente ao aluno Denis Lima Oliveira
+Pertecente aos alunos 
+Denis Lima Oliveira
+Gustavo B. D. Oliveira
 =====
